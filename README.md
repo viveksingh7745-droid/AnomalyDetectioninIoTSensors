@@ -1,4 +1,4 @@
-# IoT Anomaly Detection — CodTech Internship Project
+# IoT Anomaly Detection — CodTech Internship Project. Internship ID-CITS3857
 
 Detects equipment faults and sensor anomalies in real-time using
 **Isolation Forest** on multi-sensor industrial IoT data.
